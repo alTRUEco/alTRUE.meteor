@@ -16,4 +16,4 @@ _\> We are provided with **times of abundance** which enables us to **share with
 
 ## Further reading
 
-- https://github.com/alTRUEco/alTRU.Eco-Project
+- [https://github.com/alTRUEco/alTRU.Eco-Project](github.com/alTRUEco/alTRU.Eco-Project)
