@@ -1,3 +1,30 @@
+<!-- PROJECT SHIELDS -->
+
+![GitHub version doc](https://img.shields.io/badge/Version-0.6.2-red)
+![GitHub last commit](https://img.shields.io/github/last-commit/alTRUEco/alTRU.Eco?style=flat-square)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/alTRUEco">
+    <img src="https://avatars.githubusercontent.com/u/116693424?s=180&u=c328b1bbb45d17698cb603ccdc6990abae4a4fb4" alt="Logo" width="180" height="180">
+  </a>
+
+  <h3 align="center"><strong>alTRU.Eco</strong></h3>
+
+  <p align="center">
+        <em>Bottom-up</em> economy with <strong>data privacy</strong>.
+        | <strong>Toolkit</strong> to solve <em>Scarcity</em>
+    <br />
+    <a href="https://docs.altru.eco/">Contribute to the docs »</a>
+    <br />
+    <a href="https://altru.eu.meteorapp.com/"><strong>View Alpha release</strong></a>
+  </p>
+</p>
+<br>
+<br>
+<!-- ABOUT -->
+
 ## **The [eBay](https://en.wikipedia.org/wiki/EBay) of altruism.**[^altruism] 
 **`alTRU`** is a toolkit to solve scarcity in local communities. Running an *alTRUEco* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
 
@@ -37,12 +64,12 @@
 🇭🇺 
 ```
 Kérlek ⭐️ Csillagozd meg aktuális projektünk GitHub repoját oszd meg minél több emberrel, hogy ők is megtehessék. Minden ⭐️ és ❤️ számít. Köszönjük!
-https://github.com/alTRUEco/alTRU.Eco
+https://github.com/alTRUEco
 ```
 🇬🇧 
 ```
 Please make it ⭐️ Starred and help us to reach the mass with this amazing project:
-https://github.com/alTRUEco/alTRU.Eco
+https://github.com/alTRUEco
 ```
 
 ## Installation
