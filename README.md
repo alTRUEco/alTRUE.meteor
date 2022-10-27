@@ -1,11 +1,13 @@
 ## **The [eBay](https://en.wikipedia.org/wiki/EBay) of altruism.**[^altruism] 
-**`alTRU`** is a toolkit to solve the scarcity in local communities. Running an *alTRUEco* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
+**`alTRU`** is a toolkit to solve scarcity in local communities. Running an *alTRUEco* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
 
 > Easy-to-use *F/LOSS* **resource management toolkit** with **trusted marketplace** to sell, exchange or give away goods and services in the name of altruism.
 
 [^altruism]: the principle or practice of unselfish concern for or devotion to the welfare of others (opposed to egoism).
 [^Altruist]: a person unselfishly concerned for or devoted to the welfare of others (opposed to egoist).
 [^FLOSS]: Free/Libre Open-Source Software; Libre: maintains the software user's civil liberty rights
+
+#### :point_right: [More about alTRU.Eco](https://github.com/alTRUEco/alTRU.Eco/blob/main/index.md)
 
 `tbd.`
 
