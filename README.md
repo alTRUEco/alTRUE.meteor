@@ -1,7 +1,7 @@
 <!-- PROJECT SHIELDS -->
 
 ![GitHub version doc](https://img.shields.io/badge/Version-0.6.2-red)
-![GitHub last commit](https://img.shields.io/github/last-commit/alTRUEco/alTRU.Eco?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/alTRUEco/alTRUE.meteor?style=flat-square)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -10,7 +10,7 @@
     <img src="https://avatars.githubusercontent.com/u/116693424?s=180&u=c328b1bbb45d17698cb603ccdc6990abae4a4fb4" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center"><strong>alTRU.Eco</strong></h3>
+  <h3 align="center"><strong>alTRUE Platform</strong></h3>
 
   <p align="center">
         <em>Bottom-up</em> economy with <strong>data privacy</strong>.
@@ -26,7 +26,7 @@
 <!-- ABOUT -->
 
 ## **The [eBay](https://en.wikipedia.org/wiki/EBay) of altruism.**[^altruism] 
-**`alTRU`** is a toolkit to solve scarcity in local communities. Running an *alTRUEco* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
+**`alTRUE`** is a toolkit to solve scarcity in local communities. Running an *alTRUE* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
 
 > Easy-to-use *F/LOSS* **resource management toolkit** with **trusted marketplace** to sell, exchange or give away goods and services in the name of altruism.
 
@@ -34,12 +34,12 @@
 [^Altruist]: a person unselfishly concerned for or devoted to the welfare of others (opposed to egoist).
 [^FLOSS]: Free/Libre Open-Source Software; Libre: maintains the software user's civil liberty rights
 
-#### :point_right: [More about alTRU.Eco](https://github.com/alTRUEco/alTRU.Eco/blob/main/index.md)
+#### :point_right: [More about _alTRUE_](https://github.com/alTRUEco/alTRUE.meteor/blob/main/index.md)
 
 `tbd.`
 
 ## Running on Galaxy 
-[![altru.eu on meteor.cloud](https://assets.website-files.com/5dd3f8176674eb0829f184d5/5fff6890ad5e896f40209256_Meteor%20Logo.png "Scale your apps confidently with minimal DevOps")](https://altru.eu.meteorapp.com/)
+[![alTRUE on meteor.cloud](https://assets.website-files.com/5dd3f8176674eb0829f184d5/5fff6890ad5e896f40209256_Meteor%20Logo.png "Scale your apps confidently with minimal DevOps")](https://altru.eu.meteorapp.com/)
 
 - https://altru.eu.meteorapp.com/
 
@@ -49,16 +49,16 @@
 ## You are Welcome
 ### To contribute on
 - [the Project Board](https://github.com/orgs/alTRUEco/projects/1/)
-- [the Code](https://github.com/alTRUEco) `git clone https://github.com/alTRUEco/alTRU.Eco.git`
-- [issues](https://github.com/alTRUEco/alTRU.Eco/issues)
-- [feature request](https://github.com/alTRUEco/alTRU.Eco/labels/enhancement)
+- [the Code](https://github.com/alTRUEco) `git clone https://github.com/alTRUEco/alTRUE.meteor.git`
+- [issues](https://github.com/alTRUEco/alTRUE.meteor/issues)
+- [feature request](https://github.com/alTRUEco/alTRUE.meteor/labels/enhancement)
 ### Join the team
 - `mailto:altruist@valto.ro`
 ### Support the project
 - Make this repository :star: Starred
-- [Altruist Platform - Open Collective](https://opencollective.com/decentral/projects/altrueco)
-- [❤ the repository](https://github.com/alTRUEco/alTRU.Eco)
-- Look for `#altrueco` tag on the [Altruist Platform](https://altru.eu.meteorapp.com/)
+- [alTRUE Platform - Open Collective](https://opencollective.com/decentral/projects/altrueco)
+- [❤ the repository](https://github.com/alTRUEco/alTRUE.meteor)
+- Look for `#altrueco` tag on the [alTRUE Platform](https://altru.eu.meteorapp.com/)
 
 #### Sare our _Call to Action_ 
 🇭🇺 
@@ -74,7 +74,7 @@ https://github.com/alTRUEco
 
 ## Installation
 Host your own instance
-0. `git clone https://github.com/alTRUEco/alTRU.Eco.git | cd ./alTRU.Eco`  
+0. `git clone https://github.com/alTRUEco/alTRUE.meteor.git | cd ./alTRUE.meteor`  
 1. `sudo nvm install 14` ([nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)
 2. `sudo npm install -g meteor | . ~/.bashrc` ([Install the Latest Version of Meteor](https://www.meteor.com/developers/install?utm_source=website&utm_medium=install_button&utm_campaign=frontpage) and [reload `.bashrc` after](https://reactgo.com/reload-bashrc/))
 3. `meteor npm install`
