@@ -13,8 +13,8 @@
   <h3 align="center"><strong>alTRUE Platform</strong></h3>
 
   <p align="center">
-        <em>Bottom-up</em> economy with <strong>data privacy</strong>.
-        | <strong>Toolkit</strong> to solve <em>Scarcity</em>
+        <em>Bottom-up</em> economy to solve <em>Scarcity</em>
+        | <strong>Toolkit</strong> with <strong>data privacy</strong>
     <br />
     <a href="https://docs.altru.eco/">Contribute to the docs »</a>
     <br />
@@ -26,7 +26,7 @@
 <!-- ABOUT -->
 
 ## **The [eBay](https://en.wikipedia.org/wiki/EBay) of altruism.**[^altruism] 
-**`alTRUE`** is a toolkit to solve scarcity in local communities. Running an *alTRUE* instance you can create *peer-to-peer* marketplace for sale, exchange or gift of goods and services to support *Sharing Economy*.
+**`alTRUE`** is a **toolkit** to solve _Scarcity_ in _Local Communities_. Running an _alTRUE_ instance, you can create _peer-to-peer marketplaces_ for the sale, exchange, or gift of goods and services to support _Sharing Economy_.
 
 > Easy-to-use *F/LOSS* **resource management toolkit** with **trusted marketplace** to sell, exchange or give away goods and services in the name of altruism.
 
@@ -71,6 +71,7 @@ https://github.com/alTRUEco
 Please make it ⭐️ Starred and help us to reach the mass with this amazing project:
 https://github.com/alTRUEco
 ```
+##### [Use Oneliners ✂️](/alTRUEco/alTRU.Ecological.Economy/blob/main/brand/oneliners.md)
 
 ## Installation
 Host your own instance
@@ -89,6 +90,6 @@ Host your own instance
 [![Transparently secure Resource management, effective collaborative allocation, Trust](https://user-images.githubusercontent.com/4000929/192081476-ca7f6c14-102d-4538-9b94-35e187c8585f.png)](https://pixeldrain.com/u/HWtH1eWg)
 Pitch :movie_camera: 02:50m Hosted on [pixeldrain](https://pixeldrain.com/u/HWtH1eWg) | [YouTube](https://youtu.be/1RBJ3temzNs) | [Vimeo](https://vimeo.com/753237646) 
 
-> We are provided with _times of abundance_ which enables us to **share with others**.
+> We are provided with _times of abundance_, which enables us to **share with others**.
 
 `tbd.`
