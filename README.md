@@ -71,7 +71,7 @@ https://github.com/alTRUEco
 Please make it ⭐️ Starred and help us to reach the mass with this amazing project:
 https://github.com/alTRUEco
 ```
-##### [Use Oneliners ✂️](../alTRU.Ecological.Economy/brand/oneliners.md)
+##### [Use Oneliners ✂️](/alTRU.Ecological.Economy/brand/oneliners.md)
 
 ## Installation
 Host your own instance
